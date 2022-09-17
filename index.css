@@ -1,0 +1,40 @@
+body{
+    background-color: rgb(192, 147, 235);
+}
+h1{
+    text-align: center;
+}
+.card{
+    display:flex;
+}
+ul{
+    list-style: none;
+}
+.card{
+    float: left;
+    margin-right: 25px;
+    border: 2px solid black;
+}
+.card:hover{
+    background:rgb(132, 166, 235);
+}
+.container{
+    tab-size: 10;
+}
+.btn{
+    border: 2px solid black; 
+}
+hr{
+    color: black;
+}
+.bar{
+    float: left;
+}
+.nav-item{
+color: black;
+font-size:xx-large;
+}
+
+h1{
+    color: rgb(231, 23, 23);
+}
